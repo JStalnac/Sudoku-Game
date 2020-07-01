@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+
+# Builds
+bin/
+obj/
+
+# Save files
+*.error
+*.save
